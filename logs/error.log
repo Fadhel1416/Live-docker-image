@@ -1,0 +1,13 @@
+[Mon Oct 31 09:21:19.648226 2022] [mpm_prefork:notice] [pid 17] AH00163: Apache/2.4.54 (Debian) PHP/8.1.11 configured -- resuming normal operations
+[Mon Oct 31 09:21:19.648285 2022] [core:notice] [pid 17] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Oct 31 09:21:22.192644 2022] [autoindex:error] [pid 22] [client 192.168.48.1:41802] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Oct 31 09:21:41.197476 2022] [autoindex:error] [pid 20] [client 192.168.48.1:58660] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Oct 31 09:25:16.310858 2022] [mpm_prefork:notice] [pid 18] AH00163: Apache/2.4.54 (Debian) PHP/8.1.11 configured -- resuming normal operations
+[Mon Oct 31 09:25:16.311051 2022] [core:notice] [pid 18] AH00094: Command line: '/usr/sbin/apache2'
+[Mon Oct 31 09:25:19.321030 2022] [autoindex:error] [pid 20] [client 192.168.48.1:58184] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Oct 31 09:25:20.721803 2022] [autoindex:error] [pid 20] [client 192.168.48.1:58184] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Oct 31 09:25:22.888928 2022] [autoindex:error] [pid 20] [client 192.168.48.1:58184] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Oct 31 09:25:24.919448 2022] [autoindex:error] [pid 20] [client 192.168.48.1:58184] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Oct 31 09:25:30.201088 2022] [autoindex:error] [pid 22] [client 192.168.48.1:42632] AH01276: Cannot serve directory /var/www/html/: No matching DirectoryIndex (index.php,index.html) found, and server-generated directory index forbidden by Options directive
+[Mon Oct 31 09:33:39.986314 2022] [mpm_prefork:notice] [pid 18] AH00163: Apache/2.4.54 (Debian) PHP/8.1.11 configured -- resuming normal operations
+[Mon Oct 31 09:33:40.028432 2022] [core:notice] [pid 18] AH00094: Command line: '/usr/sbin/apache2'
